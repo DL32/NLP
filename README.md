@@ -12,7 +12,7 @@ Università Bocconi, Milan, 2021
 
 ## Table of Contents
 1. [Slides and Codes from the lectures](#general-content)
-2. [MidTerm Project] (#Individual Mid-term)
+2. [MidTerm Project](#Individual Mid-term)
 3. [Final Project](#Teamwork)
 
 
