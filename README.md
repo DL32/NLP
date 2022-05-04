@@ -1,5 +1,5 @@
 # NATURAL LANGUAGE PROCESSING
-## Materials, Slides and Codes from university LEctures and Projects
+## Materials, Slides and Codes from university Lectures and Projects
 
 Natural Language Processing <br />
 Università Bocconi, Milan, 2021
